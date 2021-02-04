@@ -1,6 +1,19 @@
 
-  # Talk Town
+  **# Practice Town**
   
-  ### Project Purpose
-  To make a cool doo dah
+
+  ### Description
+  Try and make stuff look better
+
+  ### Installation
+  ?
+
+  ### Usage
+  Nah
+
+  ### Contributing
+  nope
+
+  ### Tests
+  Do it
   
