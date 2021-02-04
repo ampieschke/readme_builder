@@ -1,19 +1,19 @@
 
-  **# Practice Town**
+  #** Practice**
   
 
   ### Description
-  Try and make stuff look better
+  practicing
 
   ### Installation
-  ?
+  Not sure yet
 
   ### Usage
-  Nah
+  Not really
 
   ### Contributing
-  nope
+  Nope.
 
   ### Tests
-  Do it
+  Do your best
   

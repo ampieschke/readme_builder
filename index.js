@@ -45,7 +45,7 @@ inquirer
     fs.writeFile(
       "README.md",
       `
-  **# ${answers.name}**
+  #** ${answers.name}**
   
 
   ### Description
