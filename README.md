@@ -1,9 +1,9 @@
 
-  # Practice Town
+  # ReadMe Builder
   
 
   ### Description
-  To create a better readme
+  This app has been put together to create a better readme for future projects via node prompts.
 
   ### Table of Contents
 
@@ -15,10 +15,10 @@
 
 
   ### Installation
-  almost none
+  There's almost none!
 
   ### Usage
-  No thank you
+  Running node index.js in the terminal will begin the application. Answer the prompts as they populate, then upon completion, you may find your constructed readme.md file in the ["printed"](printed) folder
 
   ### Contributing
   Do your best

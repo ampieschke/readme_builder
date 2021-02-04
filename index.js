@@ -54,7 +54,7 @@ inquirer
 
   .then((answers) => {
     fs.writeFile(
-      "README.md",
+      "printed/README.md",
       `
   # ${answers.name}
   
