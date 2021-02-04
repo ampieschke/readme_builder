@@ -1,19 +1,32 @@
 
-  #** Practice**
+  # Practice Town
   
 
   ### Description
-  practicing
+  To create a better readme
+
+  ### Table of Contents
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+
 
   ### Installation
-  Not sure yet
+  almost none
 
   ### Usage
-  Not really
+  No thank you
 
   ### Contributing
-  Nope.
+  Do your best
 
   ### Tests
-  Do your best
+  Nah
+
+  ### Questions
+  github: ampieschke
+  email: sample@yahoo.com
   
