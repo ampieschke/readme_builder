@@ -38,7 +38,7 @@ inquirer
       type: "list",
       name: "license",
       message: "What license would you like?",
-      choices: ["None", "A", "B"],
+      choices: ["Apache", "MIT", "Boost", "None"],
     },
     {
       type: "input",
@@ -91,17 +91,16 @@ inquirer
       (err) => (err ? console.log(err) : console.log("readme created!!"))
     );
   });
-
-// THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-// WHEN I enter my GitHub username
-// THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-// WHEN I enter my email address
-// THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-// WHEN I click on the links in the Table of Contents
-// THEN I am taken to the corresponding section of the README
-
-// TODO: Create a function to initialize app
-// function init() {}
-
-// Function call to initialize app
-// init();
+// switch (answers.licence) {
+//   case "Apache":
+//     licenceURL =
+//       "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
+//   case "MIT":
+//     licenceURL =
+//       "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
+//   case "Boost":
+//     licenceURL =
+//       "[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)";
+//   case "None":
+//     licenceURL = "";
+// }

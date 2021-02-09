@@ -11,22 +11,23 @@
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [Example](#example)
   * [Questions](#questions)
 
 
   ### Installation
-  There's almost none!
+  You may clone this repo.
 
   ### Usage
   Running node index.js in the terminal will begin the application. Answer the prompts as they populate, then upon completion, you may find your constructed readme.md file in the ["printed"](printed) folder
 
   ### Contributing
-  Do your best
+  Recomendations? Fork your updates to this repo.
 
-  ### Tests
-  Nah
+  ### Example
+
 
   ### Questions
   github: ampieschke
-  email: sample@yahoo.com
+  email: ampieschke@gmail.com
   
