@@ -25,7 +25,7 @@
   Recomendations? Fork your updates to this repo.
 
   ### Example
-
+![readmewalkthrough](assets/README_Developer.gif)
 
   ### Questions
   github: ampieschke
